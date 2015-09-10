@@ -15,7 +15,7 @@ Barcelona 41.387917 2.169919
 Output produced:
 Scenario 1:
 Closest pair: Berlin Dresden	//Outputs closest pair
-Distance: 165.2					//gives distance between pair
+Distance: 165.2					//gives distance between pair 
 Scenario 2:
 Closest pair: Barcelona Berlin
 Distance: 1499.8
